@@ -1,3 +1,3 @@
 # my-website-projects
 
-## Basic 5 wesbites created using HTML, CSS and Javascript
+### Five fully developed wesbites using HTML, CSS and Javascript, No frameworks!

@@ -80,6 +80,10 @@
 #sidenav nav a {
   color: white;
 }
+#sidenav nav a:hover {
+  padding-bottom: 2px;
+  border-bottom: 0.5px solid white;
+}
 
 /* Menu Btn */
 
